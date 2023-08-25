@@ -1,2 +1,2 @@
-# ShopSystem
-ShopSystem
+# MyShopManageSystem
+本次实验的购物管理系统主要有1.1、1.2、1.5、2.0四个版本，每个版本层层递进，功能越来越完善，用户界面越来越细致
